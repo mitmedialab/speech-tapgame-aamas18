@@ -1,0 +1,21 @@
+[{
+	'phone_score_list': [
+		{'phone': 't', 'sound_most_like': 'hh', 'quality_score': 99.33333333333333, 'extent': [103, 118], 'stress_level': None},
+	 	{'phone': 'ay', 'sound_most_like': 'hh', 'quality_score': 98.70588235294117,  'extent': [118, 135], 'stress_score': 100.0, 'stress_level': 1},
+	 	{'phone': 'g', 'sound_most_like': 'g', 'quality_score': 100.0, 'extent': [135, 147], 'stress_level': None},
+	 	{'phone': 'er', 'sound_most_like': 'ah', 'child_phones': [
+	 												{'sound_most_like': 'er', 'quality_score': 97.4, 'extent': [147, 172]},
+	 				   								{'sound_most_like': 'ah', 'quality_score': 35.0, 'extent': [172, 173]},
+	 				   								{'sound_most_like': 'm', 'quality_score': 90.0, 'extent': [173, 174]},
+	 				   								{'sound_most_like': 'n', 'quality_score': 94.0, 'extent': [174, 175]}
+	 				   							   ],
+	 		'stress_score': 100.0, 'stress_level': 0, 'quality_score': 94.78571428571429, 'extent': [147, 175]
+	 	 }
+	],
+	'word': 'TIGER',
+	'quality_score': 98.0,
+	'syllable_score_list': [
+							{'stress_level': 1, 'letters': 'ti', 'stress_score': 100.0, 'phone_count': 2, 'quality_score': 99.0, 'extent': [103, 135], 'intonation': [None, 'FALL'], 'pitch_range': [117.81779527559056, 102.94409448818897]},
+							{'stress_level': 0, 'letters': 'ger', 'stress_score': 100.0, 'phone_count': 2, 'quality_score': 97.0, 'extent': [135, 175], 'intonation': [None, 'FALL'], 'pitch_range': [102.94409448818897, 89.0]}
+	]
+}]
