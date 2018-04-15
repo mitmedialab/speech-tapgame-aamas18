@@ -1,7 +1,7 @@
 # "Tap Game" Demo 
 ---------------------
 
-Speech-based Human-robot Interaction (HRI) game implemented in Spaulding et al.'s paper "A social Robot system for modeling children's pronunciation" (AAMAS 2018). Demo interaction is short dialogues and storytelling/listening.
+Speech-based Human-robot Interaction game implemented in Spaulding et al.'s paper "A Social Robot System for Modeling Children's Word Pronunciation" (AAMAS 2018). Includes 
 
 
 Basics
@@ -22,6 +22,7 @@ We recommend setting up a new virtualenv for this project, with Python 3.5.2 as 
 If you haven't done this yet, set up a python3 virtual env with: 
 
 ```bashrc
+mkdir -p ~/python-virtualenvs
 virtualenv -p $(which python3) ~/python-virtualenvs/tap-game-py3 --system-site-packages
 ```
 
